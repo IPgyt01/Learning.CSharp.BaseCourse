@@ -1,0 +1,6 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\bin\Debug\ExceptionLibrary.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\bin\Debug\ExceptionLibrary.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\obj\Debug\Norbit.CRM.Tyganov.Practic8.ExceptionLibrary.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\obj\Debug\Norbit.CRM.Tyganov.Practic8.ExceptionLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\obj\Debug\ExceptionLibrary.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\ExceptionLibrary\obj\Debug\ExceptionLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\bin\Debug\Norbit.CRM.Tyganov.Practic3.Collections.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\bin\Debug\Norbit.CRM.Tyganov.Practic3.Collections.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\bin\Debug\Norbit.CRM.Tyganov.Practic3.Collections.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\bin\Debug\Norbit.CRM.Tyganov.Practic3.Library.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\bin\Debug\Norbit.CRM.Tyganov.Practic3.Library.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\obj\Debug\Norbit.CRM.Tyganov.Practic3.Collections.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\obj\Debug\Norbit.CRM.Tyganov.Practic3.Collections.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\obj\Debug\Norbit.CRM.Tyganov.Practic3.Collections.csproj.CopyComplete
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\obj\Debug\Norbit.CRM.Tyganov.Practic3.Collections.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Collections\obj\Debug\Norbit.CRM.Tyganov.Practic3.Collections.pdb

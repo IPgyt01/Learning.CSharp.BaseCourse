@@ -1,0 +1,7 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\bin\Debug\Norbit.CRM.Tyganov.Practic7.OOP.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\bin\Debug\Norbit.CRM.Tyganov.Practic7.OOP.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\bin\Debug\Norbit.CRM.Tyganov.Practic7.OOP.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\obj\Debug\Norbit.CRM.Tyganov.Practic7.OOP.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\obj\Debug\Norbit.CRM.Tyganov.Practic7.OOP.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\obj\Debug\Norbit.CRM.Tyganov.Practic7.OOP.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic7.OOP\obj\Debug\Norbit.CRM.Tyganov.Practic7.OOP.csprojAssemblyReference.cache

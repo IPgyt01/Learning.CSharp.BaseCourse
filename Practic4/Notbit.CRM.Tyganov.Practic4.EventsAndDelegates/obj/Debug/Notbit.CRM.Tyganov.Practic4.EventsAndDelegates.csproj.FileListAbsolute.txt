@@ -1,0 +1,7 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\bin\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\bin\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\bin\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\obj\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\obj\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\obj\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic4\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates\obj\Debug\Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.pdb

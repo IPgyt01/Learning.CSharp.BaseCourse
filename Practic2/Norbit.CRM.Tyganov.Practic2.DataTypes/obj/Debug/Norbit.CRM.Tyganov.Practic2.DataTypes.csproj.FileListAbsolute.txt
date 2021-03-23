@@ -1,0 +1,14 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\bin\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\obj\Debug\Norbit.CRM.Tyganov.Practic2.DataTypes.pdb

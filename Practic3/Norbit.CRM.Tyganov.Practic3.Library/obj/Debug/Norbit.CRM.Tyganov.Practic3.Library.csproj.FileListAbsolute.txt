@@ -1,0 +1,6 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\bin\Debug\Norbit.CRM.Tyganov.Practic3.Library.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\bin\Debug\Norbit.CRM.Tyganov.Practic3.Library.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\obj\Debug\Norbit.CRM.Tyganov.Practic3.Library.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\obj\Debug\Norbit.CRM.Tyganov.Practic3.Library.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\obj\Debug\Norbit.CRM.Tyganov.Practic3.Library.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic3\Norbit.CRM.Tyganov.Practic3.Library\obj\Debug\Norbit.CRM.Tyganov.Practic3.Library.pdb

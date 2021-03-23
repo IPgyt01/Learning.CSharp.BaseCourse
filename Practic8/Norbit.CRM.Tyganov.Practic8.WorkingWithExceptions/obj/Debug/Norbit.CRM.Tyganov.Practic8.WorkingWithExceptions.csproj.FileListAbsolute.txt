@@ -1,0 +1,10 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\obj\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\obj\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\bin\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.exe.config
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\bin\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\bin\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\bin\Debug\ExceptionLibrary.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\bin\Debug\ExceptionLibrary.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\obj\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.csproj.CopyComplete
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\obj\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.exe
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\obj\Debug\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.pdb

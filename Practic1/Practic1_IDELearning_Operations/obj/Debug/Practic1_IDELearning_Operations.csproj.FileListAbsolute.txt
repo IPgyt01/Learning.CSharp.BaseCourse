@@ -1,0 +1,6 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\bin\Debug\Practic1_IDELearning_Operations.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\bin\Debug\Practic1_IDELearning_Operations.pdb
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\obj\Debug\Practic1_IDELearning_Operations.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\obj\Debug\Practic1_IDELearning_Operations.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\obj\Debug\Practic1_IDELearning_Operations.dll
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic1_IDELearning_Operations\obj\Debug\Practic1_IDELearning_Operations.pdb
