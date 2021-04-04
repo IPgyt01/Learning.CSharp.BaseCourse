@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
 {
@@ -37,8 +33,8 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
 
         public NewArray()
         {
-            _integerArr = new int[] { 2, 5, 6, 7, 3, 7, 8, 21, 25};
-            _stringArr = new string[] { "строкаааа", "строка", 
+            _integerArr = new int[] { 2, 5, 6, 7, 3, 7, 8, 21, 25 };
+            _stringArr = new string[] { "строкаааа", "строка",
                 "строка из нескольких слов" };
             _doubleArr = new double[] { 1.5, 1.2, 0.3, 256.7 };
         }
@@ -54,7 +50,7 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
                 Console.Write($"{i}, ");
             Console.WriteLine();
         }
-       
+
         /// <summary>
         /// Метод для тестирования работы сортировки.
         /// </summary>
@@ -66,7 +62,7 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
             // Cортировка строк.
             ArrayChanger.BubbleSort(_stringArr, ArrayChanger.CompareStringType);
             PrintArray(_stringArr);
-            
+
             // Подписчик на событие, реализованный через лямбда выражение.
             ArrayChanger.EndSort += (ReportMessage) => Console.WriteLine(ReportMessage);
         }

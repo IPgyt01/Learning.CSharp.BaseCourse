@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
 {
@@ -16,7 +12,7 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
         /// <param name="second">Второй элемент сравнения.</param>
         /// <returns></returns>
         public delegate int Comparison<T>(T first, T second);
-        
+
         /// <summary>
         /// Делегат события EndSort.
         /// </summary>
@@ -34,7 +30,7 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
         /// <param name="array">Входной массив.</param>
         /// <param name="compare">Способ сравнения элементов, указывается в зависимости
         /// от типа входного массива.</param>
-        public static void  BubbleSort<T>(T[] array, Comparison<T> compare)
+        public static void BubbleSort<T>(T[] array, Comparison<T> compare)
         {
             for (int i = 0; i < array.Length; i++)
             {
@@ -50,7 +46,7 @@ namespace Notbit.CRM.Tyganov.Practic4.EventsAndDelegates
             }
             EndSort?.Invoke("Сортировка завешена");
         }
-        
+
         /// <summary>
         /// Сравнение целочисленных элементов
         /// </summary>

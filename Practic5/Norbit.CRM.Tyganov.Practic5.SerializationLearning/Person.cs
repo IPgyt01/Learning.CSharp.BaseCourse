@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-
-namespace Norbit.CRM.Tyganov.Practic5.SerializationLearning
+﻿namespace Norbit.CRM.Tyganov.Practic5.SerializationLearning
 {
     public class Person
     {

@@ -1,34 +1,31 @@
-﻿using System;
+﻿using Norbit.CRM.Tyganov.Practic3.Library;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Norbit.CRM.Tyganov.Practic3.Library;
 
 
 namespace Norbit.CRM.Tyganov.Practic3.Collections
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             // Задание 1.
             GetFrequancyWords();
             // Задание 2 и 3.
-            TestArray();
+            //TestArray();
             // Задание 4.
             var pesron1 = new Person("Иван", 20, "Norbit");
             var person2 = new Person("Александр", 22, "Norbit");
             var notPerson = new Bycicle(30, "Крутой велик");
             if (pesron1.Equals(person2) == false)
                 Console.WriteLine("Эти ребята разные");
-           
+
             if (!person2.Equals(notPerson))
             {
                 Console.WriteLine("Один из нас - не человек!");
             }
             // Задание 5.
-            Console.WriteLine(string.Join(" ", ZipSum(new[] { 1, 3, 5 }, 
+            Console.WriteLine(string.Join(" ", ZipSum(new[] { 1, 3, 5 },
                 new[] { 5, 3, -1 })));
             Console.ReadLine();
         }
@@ -49,19 +46,19 @@ namespace Norbit.CRM.Tyganov.Practic3.Collections
         /// <summary>
         /// "Тестирование" для второго задания.
         /// </summary>
-        static void TestArray()
-        {
-            int[] sequence = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
-            var arr = new DynamicArray<int>(sequence);
-            arr.Add(9);
-            var adder = new int[] { 10, 11, 12 };
-            arr.AddRange(adder);
-            arr.Remove(5);
-            arr.Insert(3, 3);
-            foreach(var c in arr)
-                Console.WriteLine(c);
-            Console.ReadLine();
-        }
+        //static void TestArray()
+        //{
+        //    int[] sequence = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
+        //    var arr = new DynamicArray<int>(sequence);
+        //    arr.Add(9);
+        //    var adder = new int[] { 10, 11, 12 };
+        //    arr.AddRange(adder);
+        //    arr.Remove(5);
+        //    arr.Insert(3, 3);
+        //    foreach(var c in arr)
+        //        Console.WriteLine(c);
+        //    Console.ReadLine();
+        //}
 
         /// <summary>
         /// Возвращает последовательность из попарных сумм элементов 
@@ -97,7 +94,7 @@ namespace Norbit.CRM.Tyganov.Practic3.Collections
             _name = name;
             _company = company;
         }
-        
+
         /// <summary>
         /// Переопределение сравнения.
         /// </summary>
@@ -105,8 +102,8 @@ namespace Norbit.CRM.Tyganov.Practic3.Collections
         /// <returns></returns>
         public override bool Equals(object obj)
         {
-           var comparablePerson = obj as Person;
-           if (obj is Person == true)
+            var comparablePerson = obj as Person;
+            if (obj is Person == true)
                 return _name == comparablePerson._name
                     && _age == comparablePerson._age
                     && _company == comparablePerson._company;

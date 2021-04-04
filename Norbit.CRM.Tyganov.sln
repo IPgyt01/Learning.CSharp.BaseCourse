@@ -14,9 +14,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic2.DataTypes", "Practic2\Norbit.CRM.Tyganov.Practic2.DataTypes\Norbit.CRM.Tyganov.Practic2.DataTypes.csproj", "{7CB06B1C-9B83-4659-928A-1B0E135E594E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practic3", "Practic3", "{82AFE851-6CA6-45C8-8482-D56B7B2C68A1}"
-	ProjectSection(SolutionItems) = preProject
-		Practic3\Norbit.CRM.Tyganov.Practic3.Library\Norbit.CRM.Tyganov.Practic3.Library.csproj = Practic3\Norbit.CRM.Tyganov.Practic3.Library\Norbit.CRM.Tyganov.Practic3.Library.csproj
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic3.Collections", "Practic3\Norbit.CRM.Tyganov.Practic3.Collections\Norbit.CRM.Tyganov.Practic3.Collections.csproj", "{01246A74-609A-4A1C-A455-026D6478F6B2}"
 EndProject
@@ -42,11 +39,36 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions", "Practic8\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions\Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.csproj", "{6CAFC5AD-C765-4156-B58E-CEDB54693C49}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practic9", "Practic9", "{AC12CBD3-F8A1-4742-87A0-8D3088E063F7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practic9-10", "Practic9-10", "{AC12CBD3-F8A1-4742-87A0-8D3088E063F7}"
+	ProjectSection(SolutionItems) = preProject
+		Practic9-10\packages\MSTest.TestFramework.2.2.3\MSTest.TestFramework.2.2.3.nupkg = Practic9-10\packages\MSTest.TestFramework.2.2.3\MSTest.TestFramework.2.2.3.nupkg
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic9.FilesAndFolders", "Practic9\Norbit.CRM.Tyganov.Practic9.FilesAndFolders\Norbit.CRM.Tyganov.Practic9.FilesAndFolders.csproj", "{C871A098-5BD8-4902-9B38-D812DAA102C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic3.Library", "Practic3\Norbit.CRM.Tyganov.Practic3.Library\Norbit.CRM.Tyganov.Practic3.Library.csproj", "{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests", "Practic9\Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests\Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests.csproj", "{17D386BA-C770-47C4-BEBD-CC3A987F620B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic9.FilesAndFolders", "Practic9-10\Norbit.CRM.Tyganov.Practic9.FilesAndFolders\Norbit.CRM.Tyganov.Practic9.FilesAndFolders.csproj", "{C871A098-5BD8-4902-9B38-D812DAA102C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests", "Practic9-10\Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests\Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests.csproj", "{17D386BA-C770-47C4-BEBD-CC3A987F620B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic3.LibraryTests", "Practic3\Norbit.CRM.Tyganov.Practic3.LibraryTests\Norbit.CRM.Tyganov.Practic3.LibraryTests.csproj", "{B1D79254-5357-4D10-AE60-3F0D8CBF3C98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practic13", "Practic13", "{7EA993CA-89B3-44CE-9CD4-754119416436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic13.WebApiVesrion2", "Practic13\Norbit.CRM.Tyganov.Practic13.WebApiVesrion2\Norbit.CRM.Tyganov.Practic13.WebApiVesrion2.csproj", "{6632EEFF-748A-4C6B-BB86-8E96592293EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.Crm.Tiganov.FinalTask.ConsoleApplication", "FinalTask\Norbit.Crm.Tiganov.FinalTask.ConsoleApplication\Norbit.Crm.Tiganov.FinalTask.ConsoleApplication.csproj", "{612A3B18-5639-44D0-B407-CDD22DA19107}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Final", "Final", "{76ED1A43-EB71-4715-AEF4-C3805A5C53D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.FinalTask.DbLibrary", "FinalTask\Norbit.CRM.Tyganov.FinalTask.DbLibrary\Norbit.CRM.Tyganov.FinalTask.DbLibrary.csproj", "{3C8C5E26-B520-4431-9033-84212759A58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.FinalTask.WebApi", "FinalTask\Norbit.CRM.Tyganov.FinalTask.WebApi\Norbit.CRM.Tyganov.FinalTask.WebApi.csproj", "{26B86CD9-53E0-4AFD-8AEA-2920AD15196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.FinalTask.WebApplication", "FinalTask\Norbit.CRM.Tyganov.FinalTask.WebApplication\Norbit.CRM.Tyganov.FinalTask.WebApplication.csproj", "{78B9C38D-3273-44CD-8D5B-6732B4CDD093}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practic12", "Practic12", "{191BE0CE-FDF7-47CF-8184-B07904874627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norbit.CRM.Tyganov.Practic12.ADO.NET.LINQ2DB", "Practic12\Norbit.CRM.Tyganov.Practic12.ADO.NET.LINQ2DB\Norbit.CRM.Tyganov.Practic12.ADO.NET.LINQ2DB.csproj", "{1FA3DF60-8176-4250-86B0-C211374624BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -94,6 +116,10 @@ Global
 		{6CAFC5AD-C765-4156-B58E-CEDB54693C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CAFC5AD-C765-4156-B58E-CEDB54693C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CAFC5AD-C765-4156-B58E-CEDB54693C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C871A098-5BD8-4902-9B38-D812DAA102C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C871A098-5BD8-4902-9B38-D812DAA102C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C871A098-5BD8-4902-9B38-D812DAA102C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -102,6 +128,34 @@ Global
 		{17D386BA-C770-47C4-BEBD-CC3A987F620B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D386BA-C770-47C4-BEBD-CC3A987F620B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D386BA-C770-47C4-BEBD-CC3A987F620B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D79254-5357-4D10-AE60-3F0D8CBF3C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D79254-5357-4D10-AE60-3F0D8CBF3C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D79254-5357-4D10-AE60-3F0D8CBF3C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D79254-5357-4D10-AE60-3F0D8CBF3C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6632EEFF-748A-4C6B-BB86-8E96592293EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6632EEFF-748A-4C6B-BB86-8E96592293EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6632EEFF-748A-4C6B-BB86-8E96592293EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6632EEFF-748A-4C6B-BB86-8E96592293EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612A3B18-5639-44D0-B407-CDD22DA19107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612A3B18-5639-44D0-B407-CDD22DA19107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612A3B18-5639-44D0-B407-CDD22DA19107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612A3B18-5639-44D0-B407-CDD22DA19107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8C5E26-B520-4431-9033-84212759A58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8C5E26-B520-4431-9033-84212759A58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8C5E26-B520-4431-9033-84212759A58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8C5E26-B520-4431-9033-84212759A58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B86CD9-53E0-4AFD-8AEA-2920AD15196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B86CD9-53E0-4AFD-8AEA-2920AD15196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B86CD9-53E0-4AFD-8AEA-2920AD15196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B86CD9-53E0-4AFD-8AEA-2920AD15196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B9C38D-3273-44CD-8D5B-6732B4CDD093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B9C38D-3273-44CD-8D5B-6732B4CDD093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B9C38D-3273-44CD-8D5B-6732B4CDD093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B9C38D-3273-44CD-8D5B-6732B4CDD093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA3DF60-8176-4250-86B0-C211374624BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA3DF60-8176-4250-86B0-C211374624BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA3DF60-8176-4250-86B0-C211374624BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA3DF60-8176-4250-86B0-C211374624BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,7 +171,16 @@ Global
 		{EADA07E8-89FB-49BF-8B45-596A0DC01A1C} = {8D720A1B-22F3-46C1-9BA9-BF36E7228FEA}
 		{65743B8C-B897-4D8B-A325-184AB92F3E61} = {072BE9EC-9444-4F7B-A860-81D3F7EB1916}
 		{6CAFC5AD-C765-4156-B58E-CEDB54693C49} = {072BE9EC-9444-4F7B-A860-81D3F7EB1916}
+		{54C9D0E0-3AD6-4454-BA64-5E94145FC5FD} = {82AFE851-6CA6-45C8-8482-D56B7B2C68A1}
 		{C871A098-5BD8-4902-9B38-D812DAA102C2} = {AC12CBD3-F8A1-4742-87A0-8D3088E063F7}
+		{17D386BA-C770-47C4-BEBD-CC3A987F620B} = {AC12CBD3-F8A1-4742-87A0-8D3088E063F7}
+		{B1D79254-5357-4D10-AE60-3F0D8CBF3C98} = {82AFE851-6CA6-45C8-8482-D56B7B2C68A1}
+		{6632EEFF-748A-4C6B-BB86-8E96592293EB} = {7EA993CA-89B3-44CE-9CD4-754119416436}
+		{612A3B18-5639-44D0-B407-CDD22DA19107} = {76ED1A43-EB71-4715-AEF4-C3805A5C53D4}
+		{3C8C5E26-B520-4431-9033-84212759A58A} = {76ED1A43-EB71-4715-AEF4-C3805A5C53D4}
+		{26B86CD9-53E0-4AFD-8AEA-2920AD15196B} = {76ED1A43-EB71-4715-AEF4-C3805A5C53D4}
+		{78B9C38D-3273-44CD-8D5B-6732B4CDD093} = {76ED1A43-EB71-4715-AEF4-C3805A5C53D4}
+		{1FA3DF60-8176-4250-86B0-C211374624BB} = {191BE0CE-FDF7-47CF-8184-B07904874627}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF5DEBEB-29AC-461A-B44E-918C2B3EB0D9}

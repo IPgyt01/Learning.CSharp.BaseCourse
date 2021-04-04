@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Norbit.CRM.Tyganov.Practic2.DataTypes
 {
@@ -34,13 +31,13 @@ namespace Norbit.CRM.Tyganov.Practic2.DataTypes
         /// <param name="weight">Вес</param>
         /// <param name="growth">Рост</param>
         /// <returns></returns>
-        public static double CalculateIMT(int weight, int growth) => 
+        public static double CalculateIMT(int weight, int growth) =>
             weight / Math.Pow(growth, 2);
 
-       /// <summary>
-       /// Метод используется лишь для вывода индекса массы, но можно добавить сюда проверку
-       /// на нормальность индекса.
-       /// </summary>
+        /// <summary>
+        /// Метод используется лишь для вывода индекса массы, но можно добавить сюда проверку
+        /// на нормальность индекса.
+        /// </summary>
         public static void CheckIMT()
         {
             Console.WriteLine("Введите ваш рост:");
@@ -172,7 +169,7 @@ namespace Norbit.CRM.Tyganov.Practic2.DataTypes
         /// Описание простой информации о произвольных людях в виде класса.
         /// </summary>
 
-       // Нарушение принципа DRY. Используется лишь для примера.
+        // Нарушение принципа DRY. Используется лишь для примера.
         class UserInfoClass
         {
             public string Name;
@@ -222,7 +219,7 @@ namespace Norbit.CRM.Tyganov.Practic2.DataTypes
             public static void CheckDiffrenceStructAndClass()
             {
                 Console.WriteLine("**********************************");
-               // Вызовем сначала пример с присваиванием полей в структуре.
+                // Вызовем сначала пример с присваиванием полей в структуре.
                 UserInfoStruct.CheckStructInfo();
                 Console.WriteLine();
                 Console.WriteLine();
@@ -255,7 +252,7 @@ namespace Norbit.CRM.Tyganov.Practic2.DataTypes
             {
                 x += y;
             }
-           
+
             /// <summary>
             /// Принудительная сборка мусора
             /// </summary>

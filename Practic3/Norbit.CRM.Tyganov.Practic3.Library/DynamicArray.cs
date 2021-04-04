@@ -2,8 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Norbit.CRM.Tyganov.Practic3.Library
 {
@@ -76,7 +74,7 @@ namespace Norbit.CRM.Tyganov.Practic3.Library
         /// <param name="item">Элемент, который нужно добавить.</param>
         public void Add(T item)
         {
-            if(Capacity <= Length)
+            if (Capacity <= Length)
             {
                 Capacity *= 2;
                 var extendedArr = new T[Capacity];
@@ -95,7 +93,7 @@ namespace Norbit.CRM.Tyganov.Practic3.Library
         public void AddRange(IEnumerable<T> collection)
         {
             if (collection == null) throw new ArgumentNullException();
-            
+
             // Способ 1.
             var shortArr = new T[Length];
             Array.Copy(_array, shortArr, Length);
@@ -105,24 +103,6 @@ namespace Norbit.CRM.Tyganov.Practic3.Library
             _array = temp.ToArray();
             Length = _array.Length;
             Capacity = Length;
-
-            // Способ 2. ПОДПРАВИТЬ
-            //Capacity = Length + collection.Count();
-            //var temp = new T[Capacity];
-            //Array.Copy(_array, temp, Length);
-            //var collectionArr = collection.ToArray();
-            //for(var i = Length; i < temp.Length; i++)
-            //{
-            //    for(var j = 0; j < collectionArr.Length; j++)
-            //    {
-            //        temp[i] = collectionArr[j];
-            //    }
-            //}
-            //_array = temp;
-            //Length = _array.Length
-            
-            //По идее можно еще сделать как-то через Take и Skip,
-            //но я решил так не заморачиваться.
         }
 
         /// <summary>
@@ -146,7 +126,7 @@ namespace Norbit.CRM.Tyganov.Practic3.Library
         /// <param name="index">Индекс позиции.</param>
         public void Insert(T item, int index)
         {
-            if (index < 0 || index > _array.Length) 
+            if (index < 0 || index > _array.Length)
                 throw new ArgumentOutOfRangeException();
             // Делим массив по индексу, меняем последний элемент в первой половине,
             // объединяем со второй половиной + тот замененный элемент.
@@ -154,7 +134,7 @@ namespace Norbit.CRM.Tyganov.Practic3.Library
             // добавление через условия.
             var firstHalf = _array.Take(index).ToArray();
             firstHalf[firstHalf.Length - 1] = item;
-            _array = firstHalf.Concat(_array.Skip(index-1)).ToArray();
+            _array = firstHalf.Concat(_array.Skip(index - 1)).ToArray();
             Length++;
             Capacity++;
         }
