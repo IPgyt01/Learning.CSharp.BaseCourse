@@ -1,0 +1,2 @@
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic5\Norbit.CRM.Tyganov.Practic5.Serialization\obj\Debug\Norbit.CRM.Tyganov.Practic5.Serialization.csprojAssemblyReference.cache
+C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov\Practic5\Norbit.CRM.Tyganov.Practic5.Serialization\obj\Debug\Norbit.CRM.Tyganov.Practic5.Serialization.csproj.CoreCompileInputs.cache

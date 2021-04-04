@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\CSharpCourse\Tyganov Ilya\Norbit.CRM.Tyganov" t="IncludeFlat">
+      <e p="Final" t="Include" />
+      <e p="FinalTask\Norbit.Crm.Tiganov.FinalTask.ConsoleApplication" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Norbit.Crm.Tiganov.FinalTask.ConsoleApplication.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FinalTask\Norbit.CRM.Tyganov.FinalTask.DbLibrary" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Linq2DbProvider.cs" t="Include" />
+        <e p="Models.cs" t="Include" />
+        <e p="Norbit.CRM.Tyganov.FinalTask.DbLibrary.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Trade.cs" t="Include" />
+      </e>
+      <e p="FinalTask\Norbit.CRM.Tyganov.FinalTask.WebApi" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="FilterConfig.cs" t="Include" />
+          <e p="RouteConfig.cs" t="Include" />
+          <e p="WebApiConfig.cs" t="Include" />
+        </e>
+        <e p="Areas" t="Include">
+          <e p="HelpPage" t="Include">
+            <e p="ApiDescriptionExtensions.cs" t="Include" />
+            <e p="App_Start" t="Include">
+              <e p="HelpPageConfig.cs" t="Include" />
+            </e>
+            <e p="Controllers" t="Include">
+              <e p="HelpController.cs" t="Include" />
+            </e>
+            <e p="HelpPage.css" t="Include" />
+            <e p="HelpPageAreaRegistration.cs" t="Include" />
+            <e p="HelpPageConfigurationExtensions.cs" t="Include" />
+            <e p="ModelDescriptions" t="Include">
+              <e p="CollectionModelDescription.cs" t="Include" />
+              <e p="ComplexTypeModelDescription.cs" t="Include" />
+              <e p="DictionaryModelDescription.cs" t="Include" />
+              <e p="EnumTypeModelDescription.cs" t="Include" />
+              <e p="EnumValueDescription.cs" t="Include" />
+              <e p="IModelDocumentationProvider.cs" t="Include" />
+              <e p="KeyValuePairModelDescription.cs" t="Include" />
+              <e p="ModelDescription.cs" t="Include" />
+              <e p="ModelDescriptionGenerator.cs" t="Include" />
+              <e p="ModelNameAttribute.cs" t="Include" />
+              <e p="ModelNameHelper.cs" t="Include" />
+              <e p="ParameterAnnotation.cs" t="Include" />
+              <e p="ParameterDescription.cs" t="Include" />
+              <e p="SimpleTypeModelDescription.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="HelpPageApiModel.cs" t="Include" />
+            </e>
+            <e p="SampleGeneration" t="Include">
+              <e p="HelpPageSampleGenerator.cs" t="Include" />
+              <e p="HelpPageSampleKey.cs" t="Include" />
+              <e p="ImageSample.cs" t="Include" />
+              <e p="InvalidSample.cs" t="Include" />
+              <e p="ObjectGenerator.cs" t="Include" />
+              <e p="SampleDirection.cs" t="Include" />
+              <e p="TextSample.cs" t="Include" />
+            </e>
+            <e p="Views" t="Include">
+              <e p="_ViewStart.cshtml" t="Include" />
+              <e p="Help" t="Include">
+                <e p="Api.cshtml" t="Include" />
+                <e p="DisplayTemplates" t="Include">
+                  <e p="ApiGroup.cshtml" t="Include" />
+                  <e p="CollectionModelDescription.cshtml" t="Include" />
+                  <e p="ComplexTypeModelDescription.cshtml" t="Include" />
+                  <e p="DictionaryModelDescription.cshtml" t="Include" />
+                  <e p="EnumTypeModelDescription.cshtml" t="Include" />
+                  <e p="HelpPageApiModel.cshtml" t="Include" />
+                  <e p="ImageSample.cshtml" t="Include" />
+                  <e p="InvalidSample.cshtml" t="Include" />
+                  <e p="KeyValuePairModelDescription.cshtml" t="Include" />
+                  <e p="ModelDescriptionLink.cshtml" t="Include" />
+                  <e p="Parameters.cshtml" t="Include" />
+                  <e p="Samples.cshtml" t="Include" />
+                  <e p="SimpleTypeModelDescription.cshtml" t="Include" />
+                  <e p="TextSample.cshtml" t="Include" />
+                </e>
+                <e p="Index.cshtml" t="Include" />
+                <e p="ResourceModel.cshtml" t="Include" />
+              </e>
+              <e p="Shared" t="Include">
+                <e p="_Layout.cshtml" t="Include" />
+              </e>
+              <e p="Web.config" t="Include" />
+            </e>
+            <e p="XmlDocumentationProvider.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.css.map" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap-theme.min.css.map" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.css.map" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="bootstrap.min.css.map" t="Include" />
+          <e p="Site.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+          <e p="glyphicons-halflings-regular.woff2" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Models" t="Include" />
+        <e p="Norbit.CRM.Tyganov.FinalTask.WebApi.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="jquery-3.4.1.intellisense.js" t="Include" />
+          <e p="jquery-3.4.1.js" t="Include" />
+          <e p="jquery-3.4.1.min.js" t="Include" />
+          <e p="jquery-3.4.1.min.map" t="Include" />
+          <e p="jquery-3.4.1.slim.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.map" t="Include" />
+          <e p="modernizr-2.8.3.js" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="FinalTask\Norbit.CRM.Tyganov.FinalTask.WebApplication" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="FilterConfig.cs" t="Include" />
+          <e p="RouteConfig.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.css.map" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap-theme.min.css.map" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.css.map" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="bootstrap.min.css.map" t="Include" />
+          <e p="Site.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+          <e p="glyphicons-halflings-regular.woff2" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Models" t="Include" />
+        <e p="Norbit.CRM.Tyganov.FinalTask.WebApplication.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="jquery-3.4.1.intellisense.js" t="Include" />
+          <e p="jquery-3.4.1.js" t="Include" />
+          <e p="jquery-3.4.1.min.js" t="Include" />
+          <e p="jquery-3.4.1.min.map" t="Include" />
+          <e p="jquery-3.4.1.slim.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.map" t="Include" />
+          <e p="jquery.validate-vsdoc.js" t="Include" />
+          <e p="jquery.validate.js" t="Include" />
+          <e p="jquery.validate.min.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          <e p="modernizr-2.8.3.js" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="About.cshtml" t="Include" />
+            <e p="Contact.cshtml" t="Include" />
+            <e p="CSharp.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="JS.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="Norbit.CRM.Tyganov.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="MSTest.TestAdapter.2.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.1\build\_common\ru" t="Include">
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" t="Include" />
+        </e>
+        <e p="MSTest.TestAdapter.2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.2.3\build\_common\ru" t="Include">
+          <e p="Microsoft.TestPlatform.AdapterUtilities.resources.dll" t="Include" />
+          <e p="Microsoft.TestPlatform.CoreUtilities.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" t="Include" />
+        </e>
+        <e p="MSTest.TestAdapter.2.2.3\build\net45\Microsoft.TestPlatform.AdapterUtilities.dll" t="Include" />
+      </e>
+      <e p="Practic1" t="Include">
+        <e p="Practic1_IDELearning" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Norbit.CRM.Tyganov.Practic1.IDELearning.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Practic1_IDELearning_Operations" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Norbit.CRM.Tyganov.Practic1.IDELearningOperations.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Operations.cs" t="Include" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Practic12" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic12.ADO.NET.LINQ2DB" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic12.ADO.NET.LINQ2DB.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Practic13" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic13.WebApiVesrion2" t="IncludeRecursive">
+          <e p="App_Data" t="Include" />
+          <e p="App_Start" t="Include">
+            <e p="BundleConfig.cs" t="Include" />
+            <e p="FilterConfig.cs" t="Include" />
+            <e p="RouteConfig.cs" t="Include" />
+            <e p="WebApiConfig.cs" t="Include" />
+          </e>
+          <e p="Areas" t="Include">
+            <e p="HelpPage" t="Include">
+              <e p="ApiDescriptionExtensions.cs" t="Include" />
+              <e p="App_Start" t="Include">
+                <e p="HelpPageConfig.cs" t="Include" />
+              </e>
+              <e p="Controllers" t="Include">
+                <e p="HelpController.cs" t="Include" />
+              </e>
+              <e p="HelpPage.css" t="Include" />
+              <e p="HelpPageAreaRegistration.cs" t="Include" />
+              <e p="HelpPageConfigurationExtensions.cs" t="Include" />
+              <e p="ModelDescriptions" t="Include">
+                <e p="CollectionModelDescription.cs" t="Include" />
+                <e p="ComplexTypeModelDescription.cs" t="Include" />
+                <e p="DictionaryModelDescription.cs" t="Include" />
+                <e p="EnumTypeModelDescription.cs" t="Include" />
+                <e p="EnumValueDescription.cs" t="Include" />
+                <e p="IModelDocumentationProvider.cs" t="Include" />
+                <e p="KeyValuePairModelDescription.cs" t="Include" />
+                <e p="ModelDescription.cs" t="Include" />
+                <e p="ModelDescriptionGenerator.cs" t="Include" />
+                <e p="ModelNameAttribute.cs" t="Include" />
+                <e p="ModelNameHelper.cs" t="Include" />
+                <e p="ParameterAnnotation.cs" t="Include" />
+                <e p="ParameterDescription.cs" t="Include" />
+                <e p="SimpleTypeModelDescription.cs" t="Include" />
+              </e>
+              <e p="Models" t="Include">
+                <e p="HelpPageApiModel.cs" t="Include" />
+              </e>
+              <e p="SampleGeneration" t="Include">
+                <e p="HelpPageSampleGenerator.cs" t="Include" />
+                <e p="HelpPageSampleKey.cs" t="Include" />
+                <e p="ImageSample.cs" t="Include" />
+                <e p="InvalidSample.cs" t="Include" />
+                <e p="ObjectGenerator.cs" t="Include" />
+                <e p="SampleDirection.cs" t="Include" />
+                <e p="TextSample.cs" t="Include" />
+              </e>
+              <e p="Views" t="Include">
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Help" t="Include">
+                  <e p="Api.cshtml" t="Include" />
+                  <e p="DisplayTemplates" t="Include">
+                    <e p="ApiGroup.cshtml" t="Include" />
+                    <e p="CollectionModelDescription.cshtml" t="Include" />
+                    <e p="ComplexTypeModelDescription.cshtml" t="Include" />
+                    <e p="DictionaryModelDescription.cshtml" t="Include" />
+                    <e p="EnumTypeModelDescription.cshtml" t="Include" />
+                    <e p="HelpPageApiModel.cshtml" t="Include" />
+                    <e p="ImageSample.cshtml" t="Include" />
+                    <e p="InvalidSample.cshtml" t="Include" />
+                    <e p="KeyValuePairModelDescription.cshtml" t="Include" />
+                    <e p="ModelDescriptionLink.cshtml" t="Include" />
+                    <e p="Parameters.cshtml" t="Include" />
+                    <e p="Samples.cshtml" t="Include" />
+                    <e p="SimpleTypeModelDescription.cshtml" t="Include" />
+                    <e p="TextSample.cshtml" t="Include" />
+                  </e>
+                  <e p="Index.cshtml" t="Include" />
+                  <e p="ResourceModel.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="_Layout.cshtml" t="Include" />
+                </e>
+                <e p="Web.config" t="Include" />
+              </e>
+              <e p="XmlDocumentationProvider.cs" t="Include" />
+            </e>
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Content" t="Include">
+            <e p="bootstrap-theme.css" t="Include" />
+            <e p="bootstrap-theme.css.map" t="Include" />
+            <e p="bootstrap-theme.min.css" t="Include" />
+            <e p="bootstrap-theme.min.css.map" t="Include" />
+            <e p="bootstrap.css" t="Include" />
+            <e p="bootstrap.css.map" t="Include" />
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="bootstrap.min.css.map" t="Include" />
+            <e p="Site.css" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="DataController.cs" t="Include" />
+            <e p="HomeController.cs" t="Include" />
+            <e p="ValuesController.cs" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="fonts" t="Include">
+            <e p="glyphicons-halflings-regular.eot" t="Include" />
+            <e p="glyphicons-halflings-regular.svg" t="Include" />
+            <e p="glyphicons-halflings-regular.ttf" t="Include" />
+            <e p="glyphicons-halflings-regular.woff" t="Include" />
+            <e p="glyphicons-halflings-regular.woff2" t="Include" />
+          </e>
+          <e p="FromPractic12" t="Include">
+            <e p="Linq2DbProvaider.cs" t="Include" />
+            <e p="Provaider.cs" t="Include" />
+            <e p="Sellers.cs" t="Include" />
+          </e>
+          <e p="Global.asax" t="Include" />
+          <e p="Global.asax.cs" t="Include" />
+          <e p="Models" t="Include" />
+          <e p="Norbit.CRM.Tyganov.Practic13.WebApiVesrion2.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="bootstrap.js" t="Include" />
+            <e p="bootstrap.min.js" t="Include" />
+            <e p="jquery-3.4.1.intellisense.js" t="Include" />
+            <e p="jquery-3.4.1.js" t="Include" />
+            <e p="jquery-3.4.1.min.js" t="Include" />
+            <e p="jquery-3.4.1.min.map" t="Include" />
+            <e p="jquery-3.4.1.slim.js" t="Include" />
+            <e p="jquery-3.4.1.slim.min.js" t="Include" />
+            <e p="jquery-3.4.1.slim.min.map" t="Include" />
+            <e p="modernizr-2.8.3.js" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Home" t="Include">
+              <e p="Index.cshtml" t="Include" />
+            </e>
+            <e p="Shared" t="Include">
+              <e p="_Layout.cshtml" t="Include" />
+              <e p="Error.cshtml" t="Include" />
+            </e>
+            <e p="Web.config" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+          <e p="Web.Debug.config" t="Include" />
+          <e p="Web.Release.config" t="Include" />
+        </e>
+      </e>
+      <e p="Practic2" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic2.DataTypes" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Norbit.CRM.Tyganov.Practic2.DataTypes.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Practic3" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic3.Collections" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Norbit.CRM.Tyganov.Practic3.Collections.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Norbit.CRM.Tyganov.Practic3.Library" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DynamicArray.cs" t="Include" />
+          <e p="FrequancyWords.cs" t="Include" />
+          <e p="Norbit.CRM.Tyganov.Practic3.Library.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Norbit.CRM.Tyganov.Practic3.LibraryTests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DynamicArrayTests.cs" t="Include" />
+          <e p="Norbit.CRM.Tyganov.Practic3.LibraryTests.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Practic4" t="Include">
+        <e p="Notbit.CRM.Tyganov.Practic4.EventsAndDelegates" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="ArrayChanger.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Notbit.CRM.Tyganov.Practic4.EventsAndDelegates.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages.config" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Practic5" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic5.SerializationLearning" t="IncludeRecursive">
+          <e p="App.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Norbit.CRM.Tyganov.Practic5.SerializationLearning.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="packages" t="Include">
+            <e p="Microsoft.Bcl.AsyncInterfaces.5.0.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="Icon.png" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net461" t="Include">
+                  <e p="Microsoft.Bcl.AsyncInterfaces.dll" t="Include" />
+                  <e p="Microsoft.Bcl.AsyncInterfaces.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="Microsoft.Bcl.AsyncInterfaces.dll" t="Include" />
+                  <e p="Microsoft.Bcl.AsyncInterfaces.xml" t="Include" />
+                </e>
+                <e p="netstandard2.1" t="Include">
+                  <e p="Microsoft.Bcl.AsyncInterfaces.dll" t="Include" />
+                  <e p="Microsoft.Bcl.AsyncInterfaces.xml" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="Microsoft.Bcl.AsyncInterfaces.5.0.0.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Buffers.4.5.1" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net461" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.1" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="net45" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.1" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Buffers.dll" t="Include" />
+                  <e p="System.Buffers.xml" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.Buffers.4.5.1.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.IO.FileSystem.4.3.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="dotnet_library_license.txt" t="Include" />
+              <e p="lib" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.IO.FileSystem.dll" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="ref" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.IO.FileSystem.dll" t="Include" />
+                </e>
+                <e p="netstandard1.3" t="Include">
+                  <e p="de" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="es" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="fr" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="it" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="ja" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="ko" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="ru" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="System.IO.FileSystem.dll" t="Include" />
+                  <e p="System.IO.FileSystem.xml" t="Include" />
+                  <e p="zh-hans" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                  <e p="zh-hant" t="Include">
+                    <e p="System.IO.FileSystem.xml" t="Include" />
+                  </e>
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.IO.FileSystem.4.3.0.nupkg" t="Include" />
+              <e p="ThirdPartyNotices.txt" t="Include" />
+            </e>
+            <e p="System.IO.FileSystem.Primitives.4.3.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="dotnet_library_license.txt" t="Include" />
+              <e p="lib" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.IO.FileSystem.Primitives.dll" t="Include" />
+                </e>
+                <e p="netstandard1.3" t="Include">
+                  <e p="System.IO.FileSystem.Primitives.dll" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="ref" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.IO.FileSystem.Primitives.dll" t="Include" />
+                </e>
+                <e p="netstandard1.3" t="Include">
+                  <e p="de" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="es" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="fr" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="it" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="ja" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="ko" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="ru" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="System.IO.FileSystem.Primitives.dll" t="Include" />
+                  <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  <e p="zh-hans" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                  <e p="zh-hant" t="Include">
+                    <e p="System.IO.FileSystem.Primitives.xml" t="Include" />
+                  </e>
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.IO.FileSystem.Primitives.4.3.0.nupkg" t="Include" />
+              <e p="ThirdPartyNotices.txt" t="Include" />
+            </e>
+            <e p="System.Memory.4.5.4" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net461" t="Include">
+                  <e p="System.Memory.dll" t="Include" />
+                  <e p="System.Memory.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.1" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.1" t="Include">
+                  <e p="System.Memory.dll" t="Include" />
+                  <e p="System.Memory.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Memory.dll" t="Include" />
+                  <e p="System.Memory.xml" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="netcoreapp2.1" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.Memory.4.5.4.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Numerics.Vectors.4.5.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="lib" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="portable-net45+win8+wp8+wpa81" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net45" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="net46" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Numerics.Vectors.dll" t="Include" />
+                  <e p="System.Numerics.Vectors.xml" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.Numerics.Vectors.4.5.0.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Runtime.CompilerServices.Unsafe.5.0.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="Icon.png" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net45" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="net461" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+                <e p="netstandard2.1" t="Include">
+                  <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+                  <e p="System.Runtime.CompilerServices.Unsafe.xml" t="Include" />
+                </e>
+              </e>
+              <e p="System.Runtime.CompilerServices.Unsafe.5.0.0.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Text.Encodings.Web.5.0.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="Icon.png" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net461" t="Include">
+                  <e p="System.Text.Encodings.Web.dll" t="Include" />
+                  <e p="System.Text.Encodings.Web.xml" t="Include" />
+                </e>
+                <e p="netcoreapp3.0" t="Include">
+                  <e p="System.Text.Encodings.Web.dll" t="Include" />
+                  <e p="System.Text.Encodings.Web.xml" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Text.Encodings.Web.dll" t="Include" />
+                  <e p="System.Text.Encodings.Web.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Text.Encodings.Web.dll" t="Include" />
+                  <e p="System.Text.Encodings.Web.xml" t="Include" />
+                </e>
+                <e p="netstandard2.1" t="Include">
+                  <e p="System.Text.Encodings.Web.dll" t="Include" />
+                  <e p="System.Text.Encodings.Web.xml" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="System.Text.Encodings.Web.5.0.0.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Text.Json.5.0.1" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="Icon.png" t="Include" />
+              <e p="lib" t="Include">
+                <e p="net461" t="Include">
+                  <e p="System.Text.Json.dll" t="Include" />
+                  <e p="System.Text.Json.xml" t="Include" />
+                </e>
+                <e p="netcoreapp3.0" t="Include">
+                  <e p="System.Text.Json.dll" t="Include" />
+                  <e p="System.Text.Json.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Text.Json.dll" t="Include" />
+                  <e p="System.Text.Json.xml" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="System.Text.Json.5.0.1.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.Threading.Tasks.Extensions.4.5.4" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="lib" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net461" t="Include">
+                  <e p="System.Threading.Tasks.Extensions.dll" t="Include" />
+                  <e p="System.Threading.Tasks.Extensions.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.1" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.Threading.Tasks.Extensions.dll" t="Include" />
+                  <e p="System.Threading.Tasks.Extensions.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="System.Threading.Tasks.Extensions.dll" t="Include" />
+                  <e p="System.Threading.Tasks.Extensions.xml" t="Include" />
+                </e>
+                <e p="portable-net45+win8+wp8+wpa81" t="Include">
+                  <e p="System.Threading.Tasks.Extensions.dll" t="Include" />
+                  <e p="System.Threading.Tasks.Extensions.xml" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netcoreapp2.1" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.Threading.Tasks.Extensions.4.5.4.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+            <e p="System.ValueTuple.4.5.0" t="Include">
+              <e p=".signature.p7s" t="Include" />
+              <e p="lib" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net461" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                  <e p="System.ValueTuple.xml" t="Include" />
+                </e>
+                <e p="net47" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                  <e p="System.ValueTuple.xml" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard1.0" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                  <e p="System.ValueTuple.xml" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="portable-net40+sl4+win8+wp8" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                  <e p="System.ValueTuple.xml" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE.TXT" t="Include" />
+              <e p="ref" t="Include">
+                <e p="MonoAndroid10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="MonoTouch10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="net461" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                </e>
+                <e p="net47" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                </e>
+                <e p="netcoreapp2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="netstandard2.0" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="portable-net40+sl4+win8+wp8" t="Include">
+                  <e p="System.ValueTuple.dll" t="Include" />
+                </e>
+                <e p="uap10.0.16299" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinios10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinmac20" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarintvos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+                <e p="xamarinwatchos10" t="Include">
+                  <e p="_._" t="Include" />
+                </e>
+              </e>
+              <e p="System.ValueTuple.4.5.0.nupkg" t="Include" />
+              <e p="THIRD-PARTY-NOTICES.TXT" t="Include" />
+              <e p="useSharedDesignerContext.txt" t="Include" />
+              <e p="version.txt" t="Include" />
+            </e>
+          </e>
+          <e p="packages.config" t="Include" />
+          <e p="Person.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Practic6" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic6.LINQ" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic6.LINQ.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Practic7" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic7.OOP" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic7.OOP.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Practic8" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic8.ExceptionLibrary" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic8.ExceptionLibrary.csproj" t="IncludeRecursive" />
+        </e>
+        <e p="Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic8.WorkingWithExceptions.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Practic9-10" t="Include">
+        <e p="Norbit.CRM.Tyganov.Practic9.FilesAndFolders" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic9.FilesAndFolders.csproj" t="IncludeRecursive" />
+        </e>
+        <e p="Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests" t="IncludeRecursive">
+          <e p="Norbit.CRM.Tyganov.Practic9.FilesAndFoldersTests.csproj" t="IncludeRecursive" />
+        </e>
+        <e p="packages\MSTest.TestFramework.2.2.3\MSTest.TestFramework.2.2.3.nupkg" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Norbit.CRM.Tyganov.-2021947258.00" t="ExcludeRecursive" />
+  </component>
+</project>
